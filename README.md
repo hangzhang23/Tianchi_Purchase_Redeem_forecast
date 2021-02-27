@@ -7,7 +7,7 @@
 - 模型构建：
   - [时间序列模型-ARIMA](https://github.com/hangzhang23/Tianchi_Purchase_Redeem_forecast/blob/main/purchase_redeem_ARMA.ipynb)
   - [时间序列模型-时序规则法](https://github.com/hangzhang23/Tianchi_Purchase_Redeem_forecast/blob/main/Purchase_Redeem_tsr.ipynb)
-  - [回归模型](https://github.com/hangzhang23/Tianchi_Purchase_Redeem_forecast/blob/main/Purchase_redeem_models.ipynb)：LR，lightGBM,GBDT,xgboost,RandomForest,DecisionTree
+  - [回归模型](https://github.com/hangzhang23/Tianchi_Purchase_Redeem_forecast/blob/main/Purchase_redeem_models.ipynb)：LR, lightGBM, GBDT, xgboost, RandomForest, DecisionTree
   
 最终得分：
 - ARIMA（105）
